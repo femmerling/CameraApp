@@ -1,13 +1,11 @@
 # CameraApp
 
 &copy;2013 emmerling@gmail.com
-
 ___
 ### Description
 ___
 
 This is a simple hack I tried making the camera app.
-
 ___
 ### Usage
 ___
